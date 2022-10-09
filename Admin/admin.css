@@ -1,0 +1,223 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 609px;
+}
+
+.u-section-1 .u-tabs-1 {
+  min-height: 549px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: auto;
+}
+
+.u-section-1 .u-tab-link-1 {
+  font-size: 1.25rem;
+  background-image: none;
+  letter-spacing: 0px;
+  font-weight: 700;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-tab-link-2 {
+  font-size: 1.25rem;
+  background-image: none;
+  letter-spacing: 0px;
+  font-weight: 700;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-tab-pane-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 232px;
+  height: 232px;
+  background-image: url("images/d8dad32aa1a2eb84af0daa67fc86e63fa41b1f1c830da3f8f1b6f57fe70d12f0b2d79c95ffc06549472a77d4c953c4a99c1ade5b8aa519da9eec06_1280.png");
+  background-position: 50% 50%;
+  margin: 44px auto 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 39px 588px 0 0;
+}
+
+.u-section-1 .u-tab-pane-2 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-table-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-table-header-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-4 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-5 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-8 {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-table-cell-9 {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-table-cell-10 {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-3 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-4 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-5 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-6 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-7 {
+  font-size: 1.2em;
+}
+
+.u-section-1 .u-icon-8 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-9 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-icon-10 {
+  font-size: 1.2em;
+}
+
+.u-section-1 .u-icon-11 {
+  font-size: 1.2em;
+}
+
+.u-section-1 .u-icon-12 {
+  font-size: 2em;
+}
+
+.u-section-1 .u-table-cell-33 {
+  font-weight: 400;
+}
+
+.u-section-1 .u-table-cell-34 {
+  font-weight: 400;
+}
+
+.u-section-1 .u-table-cell-35 {
+  font-weight: 400;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 9px 31px 9px 29px;
+}
+
+.u-block-c4f0-93 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 388px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 168px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 28px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+.u-section-1 .u-btn-1,
+.u-section-1 .u-btn-1:before,
+.u-section-1 .u-btn-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-btn-1.u-btn-1.u-btn-1:hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-btn-1.u-btn-1.u-btn-1.hover {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
